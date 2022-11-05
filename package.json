@@ -49,6 +49,6 @@
     "glob-parent": ">=5.1.2",
     "hosted-git-info": ">=2.8.9",
     "y18n": ">=4.0.1",
-    "node-notifier": ">=8.0.1"
+    "node-notifier": ">=10.0.1"
   }
 }
